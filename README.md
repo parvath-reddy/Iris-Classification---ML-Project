@@ -37,9 +37,8 @@ The goal was to design an end-to-end workflow starting from **data preparation**
 
 ┣ 📜 README.md
 
-┣ 📜 requirements.txt
 
-┣ 📜 mid_level_project.ipynb # Main notebook
+┣ 📜 Iris-project.ipynb # Main notebook
 
 ┣ 📂 data
 
