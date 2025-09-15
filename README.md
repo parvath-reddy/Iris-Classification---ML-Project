@@ -34,12 +34,17 @@ The goal was to design an end-to-end workflow starting from **data preparation**
 
 ## 📂 Repository Structure
 📦 Iris-Classification-ML
+
 ┣ 📜 README.md
+
 ┣ 📜 requirements.txt
+
 ┣ 📜 mid_level_project.ipynb # Main notebook
+
 ┣ 📂 data
 ┃ ┣ 📜 iris_train.xlsx
 ┃ ┣ 📜 iris_test.xlsx
+
 ┣ 📂 outputs
 ┃ ┣ 📜 confusion_matrix.png
 ┃ ┣ 📜 accuracy_results.txt
