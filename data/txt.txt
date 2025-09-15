@@ -1,0 +1,1 @@
+created the data into 80% 20% splot so we can train and test the model 
