@@ -43,8 +43,10 @@ The goal was to design an end-to-end workflow starting from **data preparation**
 
 ┣ 📂 data
 ┃ ┣ 📜 iris_train.xlsx
+
 ┃ ┣ 📜 iris_test.xlsx
 
 ┣ 📂 outputs
 ┃ ┣ 📜 confusion_matrix.png
+
 ┃ ┣ 📜 accuracy_results.txt
