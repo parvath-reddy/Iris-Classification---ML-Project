@@ -1,0 +1,7 @@
+Final Model Accuracies:
+Decision Tree: 0.90
+Random Forest: 0.87
+Logistic Regression: 0.93
+KNN: 0.90
+
+ Best Model: Logistic Regression with Accuracy = 0.93
